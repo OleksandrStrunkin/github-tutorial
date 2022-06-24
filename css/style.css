@@ -1,4 +1,7 @@
-body {
-    color: antiquewhite;
-    font-size: 74px;
+div {
+  color: blue;
+  font-size: 74px;
+}
+h2 {
+  color: aquamarine;
 }
